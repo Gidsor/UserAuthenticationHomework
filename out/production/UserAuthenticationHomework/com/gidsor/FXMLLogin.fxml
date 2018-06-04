@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="180.0" maxWidth="250.0" minHeight="144.0" minWidth="250.0" prefHeight="144.0" prefWidth="250.0" xmlns="http://javafx.com/javafx/8.0.121" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.gidsor.FXMLLogin">
+   <children>
+      <TextField fx:id="usernameInput" layoutX="42.0" layoutY="14.0" promptText="Username"/>
+      <PasswordField fx:id="passwordInput" layoutX="42.0" layoutY="54.0" promptText="Password"/>
+      <Label fx:id="infoLabel" layoutX="67.0" layoutY="84.0" text="" textFill="#ff0000" />
+      <Button layoutX="100.0" layoutY="101.0" mnemonicParsing="false" onAction="#handleLoginUser" text="Login" />
+   </children>
+</AnchorPane>
