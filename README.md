@@ -1,7 +1,7 @@
 ## UserAuthenticationHomework
 
 Это приложение осуществляет аутентификацию пользователей по
-паролю. Является лабораторной работой по предмету `Управление ИБ`.
+паролю. Является лабораторной работой по предмету **Управление ИБ**.
 
 ## Описание
 Безопасное хранение паролей пользователей в базе данных **SQLite** с
@@ -16,3 +16,6 @@
 Пароль: **admin**
 
 ## Скриншоты
+<img src="https://user-images.githubusercontent.com/16274235/40915846-f3683bbe-6816-11e8-9fe3-7583984b556c.png" width=30%/>
+<img src="https://user-images.githubusercontent.com/16274235/40915900-3582e81e-6817-11e8-8e0b-5a5dfb015dc6.png" width=50%/>
+<img src="https://user-images.githubusercontent.com/16274235/40915902-35a8d826-6817-11e8-932e-bb2a3474015b.png" width=80%/>
