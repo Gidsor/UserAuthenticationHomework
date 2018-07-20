@@ -6,7 +6,7 @@ import java.sql.*;
 import java.util.*;
 
 public class DBHandler {
-    private static final String DB_URL = "jdbc:sqlite:/Users/gidsor/Desktop/UserAuthenticationHomework/users.sqlite";
+    private static final String DB_URL = "jdbc:sqlite:/Users/gidsor/Projects/UserAuthenticationHomework/users.sqlite";
 
     public static DBHandler instance = null;
 
